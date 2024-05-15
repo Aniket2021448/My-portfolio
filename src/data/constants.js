@@ -12,7 +12,7 @@ import BioSync from "../images/BioSync.jpg";
 export const Bio = {
   name: "Aniket Panchal",
   roles: [
-    "Full Stack WEB Developer",
+    "Full Stack Developer",
     "NLP enthusiast",
     "ML Engineer",
     "Programmer",
