@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Aniket2021448/My-portfolio/static/css/main.8cfaf0d6.css",
-    "main.js": "/Aniket2021448/My-portfolio/static/js/main.a8905402.js",
-    "static/media/VKweldingProject.png": "/Aniket2021448/My-portfolio/static/media/VKweldingProject.81e2eb54a7fd0715d421.png",
-    "static/media/HeroImage.jpg": "/Aniket2021448/My-portfolio/static/media/HeroImage.30d1dfc94364e1d13182.jpg",
-    "static/media/MovieMind.png": "/Aniket2021448/My-portfolio/static/media/MovieMind.e1762f8bd5aac9163e03.png",
-    "static/media/OmicsUnveil .png": "/Aniket2021448/My-portfolio/static/media/OmicsUnveil .2b9bc614d3cd3b31b54a.png",
-    "static/media/TaxiATIIITD.png": "/Aniket2021448/My-portfolio/static/media/TaxiATIIITD.0591c50b75c950318de3.png",
-    "static/media/CollegeChat.png": "/Aniket2021448/My-portfolio/static/media/CollegeChat.a88daad4f48176981ba1.png",
-    "static/media/CommentFeel.png": "/Aniket2021448/My-portfolio/static/media/CommentFeel.6caadbc85bc47ab3f409.png",
-    "static/media/linuxShell.png": "/Aniket2021448/My-portfolio/static/media/linuxShell.f99fb26ef93e0d248a99.png",
-    "static/media/findFake.png": "/Aniket2021448/My-portfolio/static/media/findFake.0dff5b8cdbfca7284d5e.png",
-    "static/media/BioSync.jpg": "/Aniket2021448/My-portfolio/static/media/BioSync.27389f4cf14f48ec66a9.jpg",
-    "static/media/statWizard.png": "/Aniket2021448/My-portfolio/static/media/statWizard.905e05db3b7908bd957d.png",
-    "index.html": "/Aniket2021448/My-portfolio/index.html",
-    "main.8cfaf0d6.css.map": "/Aniket2021448/My-portfolio/static/css/main.8cfaf0d6.css.map",
-    "main.a8905402.js.map": "/Aniket2021448/My-portfolio/static/js/main.a8905402.js.map"
+    "main.css": "/My-portfolio/static/css/main.8cfaf0d6.css",
+    "main.js": "/My-portfolio/static/js/main.1b438f09.js",
+    "static/media/VKweldingProject.png": "/My-portfolio/static/media/VKweldingProject.81e2eb54a7fd0715d421.png",
+    "static/media/HeroImage.jpg": "/My-portfolio/static/media/HeroImage.30d1dfc94364e1d13182.jpg",
+    "static/media/MovieMind.png": "/My-portfolio/static/media/MovieMind.e1762f8bd5aac9163e03.png",
+    "static/media/OmicsUnveil .png": "/My-portfolio/static/media/OmicsUnveil .2b9bc614d3cd3b31b54a.png",
+    "static/media/TaxiATIIITD.png": "/My-portfolio/static/media/TaxiATIIITD.0591c50b75c950318de3.png",
+    "static/media/CollegeChat.png": "/My-portfolio/static/media/CollegeChat.a88daad4f48176981ba1.png",
+    "static/media/CommentFeel.png": "/My-portfolio/static/media/CommentFeel.6caadbc85bc47ab3f409.png",
+    "static/media/linuxShell.png": "/My-portfolio/static/media/linuxShell.f99fb26ef93e0d248a99.png",
+    "static/media/findFake.png": "/My-portfolio/static/media/findFake.0dff5b8cdbfca7284d5e.png",
+    "static/media/BioSync.jpg": "/My-portfolio/static/media/BioSync.27389f4cf14f48ec66a9.jpg",
+    "static/media/statWizard.png": "/My-portfolio/static/media/statWizard.905e05db3b7908bd957d.png",
+    "index.html": "/My-portfolio/index.html",
+    "main.8cfaf0d6.css.map": "/My-portfolio/static/css/main.8cfaf0d6.css.map",
+    "main.1b438f09.js.map": "/My-portfolio/static/js/main.1b438f09.js.map"
   },
   "entrypoints": [
     "static/css/main.8cfaf0d6.css",
-    "static/js/main.a8905402.js"
+    "static/js/main.1b438f09.js"
   ]
 }
