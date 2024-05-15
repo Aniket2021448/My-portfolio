@@ -80,6 +80,7 @@ export const GitHubButton = styled.a`
   align-items: center;
   height: 70%;
   border-radius: 20px;
+  // margin-left: 10px;
   color: ${({ theme }) => theme.primary};
   cursor: pointer;
   padding: 0 20px;
@@ -106,7 +107,7 @@ export const LeetcodeButton = styled.a`
   color: ${({ theme }) => theme.primary};
   cursor: pointer;
   padding: 0 20px;
-  margin-left: 20px;
+  // margin-left: 10px;
   font-weight: 500;
   text-decoration: none;
   font-size: 16px;
@@ -127,6 +128,7 @@ export const ButtonContainer = styled.div`
   justify-content: end;
   align-items: center;
   padding: 0 6px;
+  gap: 10px;
   @media screen and (max-width: 768px) {
     display: none;
   }
