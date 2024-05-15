@@ -390,7 +390,7 @@ export const projects = [
       },
       {
         name: "Ankit Bisht",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+        img: "https://avatars.githubusercontent.com/u/104578922?s=400&v=4",
         linkedin: "https://www.linkedin.com/in/ankit-bisht-197448239/",
         github: "https://github.com/upasana0710",
       },
