@@ -8,6 +8,7 @@ import linuxShell from "../images/linuxShell.png";
 import OmicsUnveil  from "../images/OmicsUnveil .png";
 import TaxiATIIITD from "../images/TaxiATIIITD.png";
 import BioSync from "../images/BioSync.jpg";
+import stockSenseAI from "../images/stockSenseAI.png";
 
 export const Bio = {
   name: "Aniket Panchal",
@@ -310,6 +311,7 @@ export const projects = [
       },
     ]
   },
+  
   {
     id: 2,
     title: "MovieMind",
@@ -600,7 +602,7 @@ export const projects = [
     
     description:
       "A deep learning-powered web app for visualizing historical stock prices and predicting future trends to help users make informed investment decisions.",
-    image: BioSync,
+    image: stockSenseAI,
     tags: [
       "LSTM",
       "RNN",
@@ -610,7 +612,7 @@ export const projects = [
     ],
     category: "machine learning",
     github: "https://github.com/Aniket2021448/StockPricePredictor",
-    webapp: "https://stock-explore-predict.streamlit.app/",
+    webapp: "https://stock-sense.streamlit.app/",
     member: [
       {
         name: "Aniket Panchal",
@@ -621,6 +623,8 @@ export const projects = [
       
     ],
   },
+
+  
 ];
 
 
