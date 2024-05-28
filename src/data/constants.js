@@ -19,7 +19,7 @@ export const Bio = {
     "Human",
   ],
   description:
-  "I'm a skilled full stack developer experienced in web development, machine learning, and data science. I'm proficient in Python, C++, JavaScript, and Java, with expertise in React, Node.js, Express, Django, TensorFlow, and sklearn. I've worked on diverse projects, focusing on scalable solutions for real-world problems. Let's collaborate and bring your ideas to life!"
+  "I'm a skilled full stack developer experienced in web development, machine learning, and data science. I'm proficient in Python, C++, JavaScript, and Java, with expertise in React, Node.js, Express, Django, TensorFlow, and sklearn. I've worked on diverse projects, focusing on scalable solutions for real-world problems. Let's collaborate and bring our ideas to life!"
 
   ,github: "https://github.com/Aniket2021448",
   leetcode: "https://leetcode.com/u/Aniket21448/",
