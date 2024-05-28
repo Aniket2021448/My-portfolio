@@ -556,7 +556,7 @@ export const projects = [
 
 
   {
-    id: 5,
+    id: 10,
     title: "BioSync",
     
     description:
@@ -590,6 +590,33 @@ export const projects = [
         img: "https://avatars.githubusercontent.com/u/101003432?v=4",
         linkedin: "https://www.linkedin.com/in/tanishq-tiwari-28b562233/",
         github: "https://github.com/Tanishq-Tiwari-28",
+      },
+      
+    ],
+  },
+  {
+    id: 10,
+    title: "StockSense AI",
+    
+    description:
+      "A deep learning-powered web app for visualizing historical stock prices and predicting future trends to help users make informed investment decisions.",
+    image: BioSync,
+    tags: [
+      "LSTM",
+      "RNN",
+      "yahoo-finance | API",
+      "Analytics",
+      "DBMS",
+    ],
+    category: "machine learning",
+    github: "https://github.com/Aniket2021448/StockPricePredictor",
+    webapp: "https://stock-explore-predict.streamlit.app/",
+    member: [
+      {
+        name: "Aniket Panchal",
+        img: "https://avatars.githubusercontent.com/u/108399480?v=4",
+        linkedin: "https://www.linkedin.com/in/aniket-panchal-0a7b3a233/",
+        github: "https://github.com/Aniket2021448",
       },
       
     ],
