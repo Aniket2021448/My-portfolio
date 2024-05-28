@@ -595,7 +595,7 @@ export const projects = [
     ],
   },
   {
-    id: 10,
+    id: 11,
     title: "StockSense AI",
     
     description:
