@@ -437,8 +437,8 @@ export const projects = [
       "Netlify | hosting",
     ],
     category: "web app",
-    github: "https://github.com/Aniket2021448/Aniket-Panchal",
-    webapp: "https://collegechat.onrender.com/",
+    github: "https://github.com/Aniket2021448/StatWizard",
+    webapp: "https://stalwart-truffle-f21f9a.netlify.app/",
     member: [
       {
         name: "Aniket Panchal",
