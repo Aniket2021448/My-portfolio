@@ -338,8 +338,8 @@ export const projects = [
       {
         name: "Aryan Sharma",
         img: "https://avatars.githubusercontent.com/u/108568470?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
+        linkedin: "https://www.linkedin.com/in/aryan21454?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/aryan21454",
       },
     ],
   },
@@ -394,7 +394,7 @@ export const projects = [
         name: "Ankit Bisht",
         img: "https://avatars.githubusercontent.com/u/104578922?s=400&v=4",
         linkedin: "https://www.linkedin.com/in/ankit-bisht-197448239/",
-        github: "https://github.com/upasana0710",
+        github: "https://github.com/ankitbisht23",
       },
     ],
   },
@@ -449,8 +449,8 @@ export const projects = [
       {
         name: "Aryan Sharma",
         img: "https://avatars.githubusercontent.com/u/108568470?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
+        linkedin: "https://www.linkedin.com/in/aryan21454?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/aryan21454",
       },
       {
         name: "Drashy sesodia",
@@ -515,8 +515,8 @@ export const projects = [
       {
         name: "Aryan Sharma",
         img: "https://avatars.githubusercontent.com/u/108568470?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
+        linkedin: "https://www.linkedin.com/in/aryan21454?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/aryan21454",
       },
      
       
@@ -562,7 +562,7 @@ export const projects = [
     title: "BioSync",
     
     description:
-      "This is a real time chat application, created using MERN technologies, along with socket.io functionality to enable the real time chatting experience. Currently in developement phase.",
+      "BioSync is a web-based platform that integrates multiple biological databases to provide users with a comprehensive search engine for biological data. By aggregating information from various databases, BioSync enables users to access a wide range of biological data in one place, streamlining the process of data retrieval and integration for researchers and scientists. The project is developed using Django, HTML, CSS, and JavaScript.",
     image: BioSync,
     tags: [
       "Information retrieval",
