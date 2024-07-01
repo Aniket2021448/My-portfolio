@@ -9,6 +9,7 @@ import OmicsUnveil  from "../images/OmicsUnveil .png";
 import TaxiATIIITD from "../images/TaxiATIIITD.png";
 import BioSync from "../images/BioSync.jpg";
 import stockSenseAI from "../images/stockSenseAI.png";
+import MediBotAI from "../images/MediBotAI.png";
 
 export const Bio = {
   name: "Aniket Panchal",
@@ -623,6 +624,34 @@ export const projects = [
       
     ],
   },
+
+  {
+    id: 12,
+    title: "MediBotAI",
+    
+    description:
+      "MediBotAI is a chatbot that provides users with information on various medical conditions, symptoms, and treatments. By leveraging NLP, ML, LLM techniques, MediBotAI can understand user queries and provide relevant information in real-time. The chatbot is designed to assist users in accessing medical information quickly and efficiently, making it a valuable resource for individuals seeking health-related information.",
+    image: MediBotAI,
+    tags: [
+      "Python | VS code",
+      "LLM",
+      "NLP",
+      "Hugging face",
+      "Pinecone",
+    ],
+    category: "machine learning",
+    github: "https://github.com/Aniket2021448/MediBotIQ",
+    webapp: "https://huggingface.co/spaces/GoodML/MediBotAI",
+    member: [
+      {
+        name: "Aniket Panchal",
+        img: "https://avatars.githubusercontent.com/u/108399480?v=4",
+        linkedin: "https://www.linkedin.com/in/aniket-panchal-0a7b3a233/",
+        github: "https://github.com/Aniket2021448",
+      }
+    ]
+  },
+
 
   
 ];
