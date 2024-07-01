@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-portfolio/static/css/main.8cfaf0d6.css",
-    "main.js": "/My-portfolio/static/js/main.5c942482.js",
+    "main.js": "/My-portfolio/static/js/main.742b8fe4.js",
     "static/media/VKweldingProject.png": "/My-portfolio/static/media/VKweldingProject.81e2eb54a7fd0715d421.png",
     "static/media/HeroImage.jpg": "/My-portfolio/static/media/HeroImage.30d1dfc94364e1d13182.jpg",
     "static/media/MovieMind.png": "/My-portfolio/static/media/MovieMind.e1762f8bd5aac9163e03.png",
@@ -9,6 +9,7 @@
     "static/media/TaxiATIIITD.png": "/My-portfolio/static/media/TaxiATIIITD.0591c50b75c950318de3.png",
     "static/media/CollegeChat.png": "/My-portfolio/static/media/CollegeChat.a88daad4f48176981ba1.png",
     "static/media/stockSenseAI.png": "/My-portfolio/static/media/stockSenseAI.d104e6f149c70351402e.png",
+    "static/media/MediBotAI.png": "/My-portfolio/static/media/MediBotAI.72747b82fcee3b6ad206.png",
     "static/media/CommentFeel.png": "/My-portfolio/static/media/CommentFeel.6caadbc85bc47ab3f409.png",
     "static/media/linuxShell.png": "/My-portfolio/static/media/linuxShell.f99fb26ef93e0d248a99.png",
     "static/media/findFake.png": "/My-portfolio/static/media/findFake.0dff5b8cdbfca7284d5e.png",
@@ -16,10 +17,10 @@
     "static/media/statWizard.png": "/My-portfolio/static/media/statWizard.905e05db3b7908bd957d.png",
     "index.html": "/My-portfolio/index.html",
     "main.8cfaf0d6.css.map": "/My-portfolio/static/css/main.8cfaf0d6.css.map",
-    "main.5c942482.js.map": "/My-portfolio/static/js/main.5c942482.js.map"
+    "main.742b8fe4.js.map": "/My-portfolio/static/js/main.742b8fe4.js.map"
   },
   "entrypoints": [
     "static/css/main.8cfaf0d6.css",
-    "static/js/main.5c942482.js"
+    "static/js/main.742b8fe4.js"
   ]
 }
