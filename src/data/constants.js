@@ -10,6 +10,7 @@ import TaxiATIIITD from "../images/TaxiATIIITD.png";
 import BioSync from "../images/BioSync.jpg";
 import stockSenseAI from "../images/stockSenseAI.png";
 import MediBotAI from "../images/MediBotAI.png";
+import DishDecodeAI from "../images/IMG_20250102_204202.jpg"
 
 export const Bio = {
   name: "Aniket Panchal",
@@ -657,7 +658,7 @@ export const projects = [
     
     description:
       "Dishdecode API is the way to get your structured pdf formatted recipe information from your recipe video. It uses deepnovogram API(whisper AI application) to extract the audio transcription along with visual cues from video like text present in it to get a mix of information and using the GEMINI knowledge base to return the structured information which can be used at the frontend to give desired solutions",
-    image: MediBotAI,
+    image: DishDecodeAI,
     tags: [
       "Python | VS code",
       "GEMINI LLM",
