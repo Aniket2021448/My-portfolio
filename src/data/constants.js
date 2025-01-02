@@ -651,6 +651,32 @@ export const projects = [
       }
     ]
   },
+  {
+    id: 13,
+    title: "Dish Decode",
+    
+    description:
+      "Dishdecode API is the way to get your structured pdf formatted recipe information from your recipe video. It uses deepnovogram API(whisper AI application) to extract the audio transcription along with visual cues from video like text present in it to get a mix of information and using the GEMINI knowledge base to return the structured information which can be used at the frontend to give desired solutions",
+    image: MediBotAI,
+    tags: [
+      "Python | VS code",
+      "GEMINI LLM",
+      "Whisper AI",
+      "Hugging face",
+      ""
+    ],
+    category: "machine learning",
+    github: "https://github.com/Aniket2021448/Dish-Decode",
+    webapp: "huggingface.co/spaces/goodml/dish-decode-2",
+    member: [
+      {
+        name: "Aniket Panchal",
+        img: "https://avatars.githubusercontent.com/u/108399480?v=4",
+        linkedin: "https://www.linkedin.com/in/aniket-panchal-0a7b3a233/",
+        github: "https://github.com/Aniket2021448",
+      }
+    ]
+  },
 
 
   
