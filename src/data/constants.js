@@ -663,12 +663,11 @@ export const projects = [
       "Python | VS code",
       "GEMINI LLM",
       "Whisper AI",
-      "Hugging face",
-      ""
+      "Hugging face"
     ],
     category: "machine learning",
     github: "https://github.com/Aniket2021448/Dish-Decode",
-    webapp: "huggingface.co/spaces/goodml/dish-decode-2",
+    webapp: "https://huggingface.co/spaces/GoodML/Dish-Decode-2",
     member: [
       {
         name: "Aniket Panchal",
@@ -678,7 +677,6 @@ export const projects = [
       }
     ]
   },
-
 
   
 ];
