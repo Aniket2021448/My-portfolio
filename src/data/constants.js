@@ -11,6 +11,8 @@ import BioSync from "../images/BioSync.jpg";
 import stockSenseAI from "../images/stockSenseAI.png";
 import MediBotAI from "../images/MediBotAI.png";
 import DishDecodeAI from "../images/IMG_20250102_204202.jpg"
+import NatwestLogo from "../images/Natwest.png"
+import NatwestInternCertificate from "../images/NatwestInternCertificate.png"
 
 // Git checkout main
 // Make whatever changes you want to do
@@ -705,7 +707,7 @@ export const TimeLineData = [
 export const experiences = [
   {
     id: 0,
-    img: "https://1000logos.net/natwest-logo/",
+    img: NatwestLogo,
     role: "Software Intern",
     company: "Natwest Group",
     date: "May 2024 - July 2024",
@@ -723,6 +725,6 @@ export const experiences = [
       "Swagger Testing",
       "Documentation",
     ],
-    doc: "https://drive.google.com/file/d/1YwvFESb89OyW_zUEWwz1tn-cfbTPsZY0/view?usp=sharing",
+    doc: NatwestInternCertificate,
   }
 ];
