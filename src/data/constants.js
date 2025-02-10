@@ -12,8 +12,17 @@ import stockSenseAI from "../images/stockSenseAI.png";
 import MediBotAI from "../images/MediBotAI.png";
 import DishDecodeAI from "../images/IMG_20250102_204202.jpg"
 
+// Git checkout main
+// Make whatever changes you want to do
+// Git add .
+// Git commit -m "Commit message"
+// Git push origin main
+
+// npm run deploy
+
 export const Bio = {
   name: "Aniket Panchal",
+
   roles: [
     "Full Stack Developer",
     "NLP enthusiast",
