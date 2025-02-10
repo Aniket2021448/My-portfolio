@@ -613,8 +613,8 @@ export const projects = [
       "DBMS",
     ],
     category: "machine learning",
-    github: "https://github.com/Aniket2021448/StockPricePredictor",
-    webapp: "https://stock-sense.streamlit.app/",
+    github: "https://huggingface.co/spaces/GoodML/StockSense/tree/main",
+    webapp: "https://huggingface.co/spaces/GoodML/StockSense",
     member: [
       {
         name: "Aniket Panchal",
