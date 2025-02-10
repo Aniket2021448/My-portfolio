@@ -11,7 +11,7 @@ import BioSync from "../images/BioSync.jpg";
 import stockSenseAI from "../images/stockSenseAI.png";
 import MediBotAI from "../images/MediBotAI.png";
 import DishDecodeAI from "../images/IMG_20250102_204202.jpg"
-import NatwestLogo from "../images/Natwest.png"
+import NatwestLogo from "../images/NATWEST logo.png"
 import NatwestInternCertificate from "../images/NatwestInternCertificate.png"
 
 // Git checkout main
