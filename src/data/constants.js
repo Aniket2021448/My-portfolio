@@ -711,8 +711,9 @@ export const experiences = [
     role: "Software Intern",
     company: "Natwest Group",
     date: "May 2024 - July 2024",
-    desc: "Engineered a Java Spring Boot microservice with 30+ features and 4 critical processes, leveraging PostgreSQL JSONB for modernized data storage. Developed REST APIs to enable real-time data interaction, enhancing system performance and future scalability.",
+    desc: "- Spearheaded microservice development leveraging PostgreSQL JSONB to modernize data storage.\n- Engineered a Java Spring Boot microservice with 30 core features and 4 business-critical processes.\n- Optimized data manipulation and retrieval with PostgreSQL, enhancing the system overall  performance.\n- Developed REST APIs to drive real-time data interaction, aligning with business requirements and setting the foundation for future implementations.",
     skills: [
+
       "Java backend development",
       "Spring Boot",
       "PostgreSQL",
